@@ -34,6 +34,10 @@
   gap: 10px 20px;
 }
 
+.empresa:hover {
+  transform: scale(1.05);
+}
+
 .empresa::before {
   content: '';
   display: block;
